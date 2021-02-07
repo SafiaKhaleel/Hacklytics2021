@@ -16,5 +16,7 @@ Next, we had to convert the data into manageable data. We decided to limit our d
 
 Results: When predicting Covid cases/deaths one week in the future, our model has an accuracy of 90.6%. When predicting cases/deaths three weeks in the future, our model has an accuracy of 81.3% (when mobility is not considered, the accuracy is 74.9% - a significant increase, indicating mobility has an effect)
 
+## **The notebook main-dash is an updated version of main-copy with visualiztions using plotly **
+
 ## Links
 Devpost: https://devpost.com/software/investigating-the-relationship
